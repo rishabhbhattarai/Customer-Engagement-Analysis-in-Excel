@@ -82,7 +82,14 @@ Confidence intervals provide a range of values where we expect the **true popula
 
 
 ## 🧪 Task 4: Hypothesis Testing  
-**(Coming Soon)**  
+In this task, hypothesis testing was conducted to analyze customer engagement metrics between different periods and subscription plans. A two-sample f-test was used to examine the variances for free- and paid-plan subscribers' engagement levels.
+Key highlights:
+
+Null Hypothesis for Paid Plan Users: Engagement in Q4 2021 is higher than or equal to Q4 2022 for paid-plan users.
+Result: Statistical evidence to reject the null hypothesis, showing a significant increase in engagement in Q4 2022 for paid-plan users.
+Null Hypothesis for Free Plan Users: Engagement in Q4 2021 is higher than or equal to Q4 2022 for free-plan users.
+Result: No significant change in engagement for free-plan users.
+This task highlights the importance of engagement differences between free and paid plans and the significance of considering Type I and Type II errors when drawing conclusions.
 
 
 
